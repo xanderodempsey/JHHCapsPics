@@ -10,7 +10,7 @@
     ```
 4. Install required libraries
      ```
-    cd JHH_Capstone/code/judd && npm install
+    cd ~/PATH_TO_PROJECT/ && npm install
     ```
 
 5. Open MySQL Workbench and enter the Local instance MySQL router.
@@ -31,7 +31,7 @@
 ## Using Genetic Emphasis
 To run Genetic Emphasis open the node.js command prompt and:
 ```
-cd JHH_Capstone/code/judd && nodemon index.js
+cd ~/PATH_TO_PROJECT/ && nodemon index.js
 ```
 and in your browser of choice goto localhost:3000
 
